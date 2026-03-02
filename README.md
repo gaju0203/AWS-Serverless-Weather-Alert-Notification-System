@@ -61,7 +61,8 @@ Set these environment variables in your Lambda configuration:
 | `OPENWEATHER_API_KEY` | Your API key from OpenWeatherMap | `YOUR_WEATHER_API`               |
 | `SNS_TOPIC_ARN`       | The ARN of your SNS topic        | `YOUR_SNS_ARN` |                                          |
 
-![](./images/Screenshot%20(83).png)
+<img width="1366" height="607" alt="serverless-1" src="https://github.com/user-attachments/assets/4c4a398c-df1e-49d9-b1d8-0e57e7b6a41e" />
+
 
 ### Lambda Function Code (Python)
 ```python
@@ -205,7 +206,8 @@ Then select your Lambda function.
 🌧️ Rain Alert! Light Rain in Pune. Carry an umbrella.
 
 ```
-![](./images/Screenshot%20(80).png)
+<img width="1319" height="608" alt="Serverless-2" src="https://github.com/user-attachments/assets/1f00ff06-a620-4520-bbd6-94fae3ce50c8" />
+
 
 ### Future Improvements
 
@@ -218,5 +220,6 @@ Then select your Lambda function.
 ### Acknowledgements
 
 * AWS Lambda, SNS, and EventBridge for automation
+
 
 * OpenWeatherMap for free weather data API
