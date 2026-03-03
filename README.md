@@ -4,6 +4,9 @@ This project automatically checks the current weather conditions (temperature, h
 
 It runs automatically at scheduled intervals using Amazon EventBridge.
 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 3, 2026, 11_58_08 PM" src="https://github.com/user-attachments/assets/21571b3c-95df-4046-b738-a8bc04cf2446" />
+
+
 ### Project Overview
 #### How it works
 
@@ -223,3 +226,4 @@ Then select your Lambda function.
 
 
 * OpenWeatherMap for free weather data API
+
